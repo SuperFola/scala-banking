@@ -1,0 +1,15 @@
+.ivy-home/
+.DS_Store
+**/target/
+!**/target/*/src_managed
+.idea/*
+!.idea/runConfigurations
+.idea/runConfigurations/*
+!.idea/runConfigurations/local_*.xml
+.bsp/
+data
+.ammonite
+.bloop
+.metals
+.vscode
+project/metals.sbt
